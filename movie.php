@@ -1,7 +1,7 @@
 <?php
-require __DIR__ . '/index.php';
 
-class movie {
+
+class Movie {
     private $title;
     private $genre;
     private $language;
